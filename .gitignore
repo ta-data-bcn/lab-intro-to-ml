@@ -16,6 +16,11 @@
 .AppleDouble
 .LSOverride
 
+
+# ignore dataset
+austin_weather.csv
+
+
 # Icon must end with two \r
 Icon
 
